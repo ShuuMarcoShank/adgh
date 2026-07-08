@@ -5,6 +5,5 @@ int main() {
     printf("Good Morning, World!");
     // ice elation
     // watch it burn
-    //gold
     return 0;
 }
