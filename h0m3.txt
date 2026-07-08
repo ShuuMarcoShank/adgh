@@ -3,7 +3,5 @@
 int main() {
     printf("Hello, World!\n");
     printf("Good Morning, World!");
-    // ice elation
-    // watch it burngjdgjgd
     return 0;
 }
